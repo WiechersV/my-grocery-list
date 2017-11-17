@@ -1,0 +1,7 @@
+@import './settings/settings.css';
+
+.default:not(ul) {
+  background-color: var(--color-primary-dark);
+  height: 80px;
+  padding: 10px 40px;
+}
